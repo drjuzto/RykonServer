@@ -42,7 +42,8 @@ under supervision of <a href='https://www.facebook.com/alhussien.seddik?fref=ts'
 <h4> Next </h4>
 1- Cross Platform <br/>
 2- htaccess support<br/>
-
+3- htpasswd support </br>
+4-Multiple Request Processing </br> 
 <h3> License </h3>
 <a href='http://www.gnu.org/licenses/gpl-3.0.html' > Released under the GPL v3 (or later) license </a>
 
