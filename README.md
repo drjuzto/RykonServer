@@ -3,8 +3,8 @@ Rykon HTTP server
 
  
 
-
-A web server is an information technology that processes requests via HTTP, the basic network protocol used to distribute information on the World Wide Web. The term can refer either to the entire computer system, an appliance, or specifically to the software that accepts and supervises the HTTP requests </br>
+<h2> Wiki</h2>
+A web server is an information technology that processes requests via HTTP, the basic network protocol used to distribute information on the World Wide Web. The term can refer either to the entire computer system, an appliance, or specifically to the software that accepts and supervises the HTTP requests <a href="https://en.wikipedia.org/wiki/Web_server" >See </a> </br>
 
 
 <h3> Name </h3>
@@ -39,9 +39,9 @@ under supervision of <a href='https://www.facebook.com/alhussien.seddik?fref=ts'
 4-Unlimitted number of clients <br/>
 
 
-<h4> Coming Features <h4>
-1_ Cross Platform 
-2_ htaccess support
+<h4> Next </h4>
+1- Cross Platform <br/>
+2- htaccess support<br/>
 
 <h3> License </h3>
 <a href='http://www.gnu.org/licenses/gpl-3.0.html' > Released under the GPL v3 (or later) license </a>
