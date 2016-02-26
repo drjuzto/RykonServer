@@ -1,10 +1,9 @@
 # RykonServer
 Rykon HTTP server 
 
+ 
 
 
-</br>
-<h2><a href='https://en.wikipedia.org/wiki/Web_server' > Wiki </a> <h2>
 A web server is an information technology that processes requests via HTTP, the basic network protocol used to distribute information on the World Wide Web. The term can refer either to the entire computer system, an appliance, or specifically to the software that accepts and supervises the HTTP requests </br>
 
 
